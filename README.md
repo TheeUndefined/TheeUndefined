@@ -3,8 +3,8 @@
       - I’m a passionate web developer with a love for creating responsive and dynamic websites.
       - I also have a knack of exploring new things and opportunities which I make sure to carry the experience with me.
       - Currently, I am diving deep into Javascript and working on building an impressive portfolio.
-      - When I'm not coding you'll find me exploring the latest tech trends or Watching Anime, Epic,Thrillers,
-      - Fictional,and Documentaary Movies or discovering new music that sets the perfect vibe for my day.
+      - When I'm not coding you'll find me exploring the latest tech trends or Watching Anime, Epic,Thrillers,Fictional,and Documentaary Movies or discovering new music that sets the 
+       perfect vibe for my day.
 - ##🌱 What I am Working On
      -I'm working on Building my personal portfolio website with HTML, CSS, and JavaScript.
      -I'm also Exploring new frameworks and tools to enhance my development skills such as Git. 
