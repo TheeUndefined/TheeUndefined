@@ -20,7 +20,7 @@
 - ##😄 Pronouns: ...
       - My pronouns are She/Her which I believe its inclusion helps foster a more inclusive and welcoming environment for everyone.
 - ⚡ Fun fact:
-      - I find most of my inspiration in vibrant and upbeat music that keeps me energised and motivated throughout the day! ...
+      - I find most of my inspiration in vibrant and upbeat music that keeps me energised and motivated throughout the day!
 
 <!---
 TheeUndefined/TheeUndefined is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
