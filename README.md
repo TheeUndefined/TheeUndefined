@@ -12,7 +12,7 @@
       -Among is best than between and better than alone.
       -Hence,I’m always open to learning new things and collaborating on exciting projects.
       -Therefore, Feel free to connect with me!
--## 📫 How to reach me ...
+- ##📫 How to reach me ...
       -[linkedIn]()
       -[DEV Community]()
       -[Forem]()
